@@ -277,8 +277,7 @@ carebridge/
 │   │
 │   ├── uploads/
 │   ├── app.js
-│   ├── db.js
-│   ├── .env
+│   ├── db.js│   
 │   └── package.json
 │
 ├── .gitignore
