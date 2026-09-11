@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+server/.env
+
+# Uploaded medical documents
+server/uploads/
+
+# Frontend build
+client/dist/
+
+# Logs
+*.log
